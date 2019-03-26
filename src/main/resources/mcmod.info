@@ -1,0 +1,16 @@
+[
+{
+  "modid": "portalcontrol",
+  "name": "PortalControl",
+  "description": "Portal control.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/MattJohns/PortalControl",
+  "updateUrl": "",
+  "authorList": ["mattjohns384@gmail.com"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
