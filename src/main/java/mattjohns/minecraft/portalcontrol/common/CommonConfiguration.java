@@ -271,13 +271,13 @@ public class CommonConfiguration extends ConfigurationBase {
 		/**
 		 * Name of the mod without any spaces and all lower case.
 		 */
-		public static final String ModNameInternal = "bonemealcontrol";
+		public static final String ModNameInternal = "portalcontrol";
 
 		/**
 		 * Name of the mod for display purposes.
 		 */
-		public static final String ModNameDisplay = "Bone Meal Control";
-		public static final String ModNameDisplayNoSpace = "BoneMealControl";
+		public static final String ModNameDisplay = "Portal Control";
+		public static final String ModNameDisplayNoSpace = "PortalControl";
 
 		public static final String VersionMajor = "1";
 		public static final String VersionMinor = "1";
@@ -286,7 +286,7 @@ public class CommonConfiguration extends ConfigurationBase {
 		public static final String Version = VersionMajor + "." + VersionMinor;
 		public static final String VersionInternal = Version + "." + VersionTestCycle;
 
-		public static final String PackageRoot = "mattjohns.minecraft.bonemealcontrol";
+		public static final String PackageRoot = "mattjohns.minecraft.portalcontrol";
 		public static final String PackageCommon = PackageRoot + ".common";
 		public static final String PackageClient = PackageRoot + ".client";
 		public static final String PackageServer = PackageRoot + ".server";
